@@ -5,3 +5,32 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 
 
 ![arcsim](https://github.com/umaine-research/.github/blob/main/arcsim.png)
+
+<br />
+
+## 📚 Training Resources
+
+Here you will find various software tutorials, training resources, and cheat sheets 
+
+<img src="https://www.tdl.org/wp-content/uploads/2010/02/TACC_logo.png" width="150" height="40">
+
+- [HPC at TACC Guidelines](https://github.com/umaine-research/.github/training/HPCatTACC.md)
+<br />
+<br />
+
+## 🧬 UMaine Research
+
+Below are links to some of the current labs and groups at the University of Maine involving research and computing on campus
+
+💻  &nbsp; [UMaine ACG](https://github.com/UMaineACG) - UMaine Advanced Computing Group https://acg.maine.edu/
+
+💧  &nbsp; [Ocean Optics Lab](https://github.com/OceanOptics) - UMaine MISC Lab http://misclab.umeoce.maine.edu/
+
+
+
+
+
+
+
+
+

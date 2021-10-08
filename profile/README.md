@@ -11,10 +11,15 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 ## 📚 Training Resources
 
 Here you will find various software tutorials, training resources, and cheat sheets 
+<br />
 
+- [Guidelines and Documentation](https://github.com/umaine-research/Training_Documentation/README.md)
+
+<br />
+<br />
 <img src="https://www.tdl.org/wp-content/uploads/2010/02/TACC_logo.png" width="150" height="40">
+<img src="https://www.osc.edu/sites/osc.edu/files/supercomputing/images/Ohio_Supercomputer_Center_OH-TECH.png" width="400" height="80">
 
-- [HPC at TACC Guidelines](https://github.com/umaine-research/.github/training/HPCatTACC.md)
 <br />
 <br />
 

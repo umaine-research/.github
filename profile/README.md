@@ -23,9 +23,13 @@ Here you will find various software tutorials, training resources, and cheat she
 <br />
 <br />
 
-## 🧬 UMaine Research
+## 🌎  UMaine Research
 
 Below are links to some of the current labs and groups at the University of Maine involving research and computing on campus
+
+<br />
+
+🧬  &nbsp; [UMaine-eDNA](https://github.com/Maine-eDNA) - Maine environmental DNA Project https://umaine.edu/edna/
 
 💻  &nbsp; [UMaine ACG](https://github.com/UMaineACG) - UMaine Advanced Computing Group https://acg.maine.edu/
 

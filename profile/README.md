@@ -29,11 +29,11 @@ Below are links to some of the current labs and groups at the University of Main
 
 <br />
 
-🧬  &nbsp; [UMaine-eDNA](https://github.com/Maine-eDNA) - Maine environmental DNA Project https://umaine.edu/edna/
+ - [UMaine-eDNA](https://github.com/Maine-eDNA) - Maine environmental DNA Project https://umaine.edu/edna/
 
-💻  &nbsp; [UMaine ACG](https://github.com/UMaineACG) - UMaine Advanced Computing Group https://acg.maine.edu/
+ - [UMaine ACG](https://github.com/UMaineACG) - UMaine Advanced Computing Group https://acg.maine.edu/
 
-💧  &nbsp; [Ocean Optics Lab](https://github.com/OceanOptics) - UMaine MISC Lab http://misclab.umeoce.maine.edu/
+ - [Ocean Optics Lab](https://github.com/OceanOptics) - UMaine MISC Lab http://misclab.umeoce.maine.edu/
 
 
 

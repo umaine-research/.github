@@ -17,8 +17,8 @@ Here you will find various software tutorials, training resources, and cheat she
 
 <br />
 <br />
-<img src="https://www.tdl.org/wp-content/uploads/2010/02/TACC_logo.png" width="150" height="40">
-<img src="https://www.osc.edu/sites/osc.edu/files/supercomputing/images/Ohio_Supercomputer_Center_OH-TECH.png" width="400" height="80">
+<img src="https://github.com/umaine-research/Training_Documentation/blob/main/logos.png"">
+
 
 <br />
 <br />

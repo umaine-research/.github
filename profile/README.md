@@ -30,6 +30,7 @@ Here you will find various software tutorials, training resources, and cheat she
 
 
 <br>
+<br>
 
 <img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png">
 

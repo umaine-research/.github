@@ -11,17 +11,31 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 ## 📚 Training Resources
 
 Here you will find various software tutorials, training resources, and cheat sheets 
-<br />
+<br>
+<br>
 
-- [Texas Advanced Computing Center](https://github.com/umaine-research/TACC_Training/wiki)
+- [HPC at Texas Advanced Computing Center](https://github.com/umaine-research/TACC_Training/wiki)
 
-<br />
-<br />
-<img src="https://github.com/umaine-research/Training_Documentation/blob/main/logos.png"">
+  - Overview of the Bash Shell (Linux)
+  - How to connect to Stampede2 Server
+  - Handling Data on HPC
+  - Submitting Jobs
+  - Conda Environment
+<br>
+
+- [HPC at Ohio Supercomputer Center](https://github.com/umaine-research/OSC_Training/wiki)
+
+  - How to connect to Owens Server
+  - Handling Data on HPC
+  - Submitting Jobs
 
 
-<br />
-<br />
+<br>
+
+<img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png"">
+
+<br/>
+<br>
 
 ## 🌎  UMaine Research
 

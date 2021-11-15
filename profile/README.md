@@ -31,6 +31,11 @@ Here you will find various software tutorials, training resources, and cheat she
   - Handling Data on HPC
   - Submitting Jobs
 
+- [Metabarcoding at CyVerse](https://github.com/umaine-research/metebarcoding-docker/wiki)
+
+  - Custom built interactive app to run Cutadapt, FastQC, Dada2
+  - Docker container file
+
 <br>
 <br/>
 

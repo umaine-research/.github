@@ -32,7 +32,7 @@ Here you will find various software tutorials, training resources, and cheat she
 
 <br>
 
-<img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png"">
+<img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png">
 
 <br/>
 <br>

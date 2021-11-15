@@ -13,7 +13,7 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 Here you will find various software tutorials, training resources, and cheat sheets 
 <br />
 
-- [Guidelines and Documentation](https://github.com/umaine-research/Training_Documentation/)
+- [Texas Advanced Computing Center](https://github.com/umaine-research/TACC_Training/wiki)
 
 <br />
 <br />

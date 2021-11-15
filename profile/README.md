@@ -21,7 +21,6 @@ Here you will find various software tutorials, training resources, and cheat she
   - Handling Data on HPC
   - Submitting Jobs
   - Conda Environment
-<br>
 
 - [HPC at Ohio Supercomputer Center](https://github.com/umaine-research/OSC_Training/wiki)
 

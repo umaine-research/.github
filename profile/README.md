@@ -15,7 +15,7 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 
 - [Parallel R at OSC](https://www.osc.edu/calendar/events/2021_12_02-parallel_r_at_osc) - December 2, 2021 - 2:00pm to 5:00pm EST
 
-- [JAX Lab: Data Carpentry Ecology](https://smcclatchy.github.io/2021-12-07-jackson/) - December 7-10 - 9:00am to 12:00pm EST
+- [The Jackson Lab: Data Carpentry Ecology](https://smcclatchy.github.io/2021-12-07-jackson/) - December 7-10 - 9:00am to 12:00pm EST
 
 - [XSEDE HPC Workshop: Big Data and Machine Learning](https://portal.xsede.org/course-calendar/-/training-user/class/2600/session/4293) - December 7/8 - 11:00am to 5:00pm EST
 

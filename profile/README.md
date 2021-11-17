@@ -8,9 +8,24 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 
 <br />
 
+
+## 💻  Upcoming Workshops
+
+- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2021_12_01-webinar_introduction_to_supercomputing_at_osc) - December 1, 2021 - 1:00pm to 2:30pm EST
+
+- [Parallel R at OSC](https://www.osc.edu/calendar/events/2021_12_02-parallel_r_at_osc) - December 2, 2021 - 2:00pm to 5:00pm EST
+
+- [XSEDE HPC Workshop: Big Data and Machine Learning](https://portal.xsede.org/course-calendar/-/training-user/class/2600/session/4293) - December 7/8 - 11:00am to 5:00pm EST
+
+- [XSEDE: Parallel Computing Concepts](https://portal.xsede.org/course-calendar/-/training-user/class/2598/session/4291) - January 20, 2022 - 2:00pm to 3:00pm EST
+
+- [XSEDE: Singularity – Containers for Scientific and High-Performance Computing](https://portal.xsede.org/course-calendar/-/training-user/class/2599/session/4292) - March 17, 2022 - 2:00pm to 3:00pm EST
+
+<br>
+
 ## 📚 Training Resources
 
-Here you will find various software tutorials, training resources, and cheat sheets 
+Here you will find various software tutorials, training resources, and cheat sheets created for UMaine Research needs. If you are looking for training content not currently listed below, email UMaine ARCSIM at <um.arcsim@maine.edu>.
 <br>
 <br>
 <img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png" width="550">
@@ -37,7 +52,6 @@ Here you will find various software tutorials, training resources, and cheat she
   - Docker container file
 
 <br>
-<br/>
 
 ## 🌎  UMaine Research
 

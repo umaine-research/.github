@@ -52,7 +52,7 @@ Here you will find various software tutorials, training resources, and cheat she
   - Account setup
   - Overview of the Discovery Environment
   - iCommands to manage DataStore
-  - Custom built application to run Cutadapt, FastQC, Dada2
+  - Custom built application for metabarcoding
 
 <br>
 

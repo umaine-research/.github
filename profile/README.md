@@ -27,7 +27,7 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 ## 📚 Training Resources
 
-Here you will find various software tutorials, training resources, and cheat sheets created for UMS research needs. If you are looking for training content not currently listed below, email ARCSIM at <um.arcsim@maine.edu>.
+Here you will find various software tutorials, training resources, and cheat sheets created for UMS research needs. If you are looking for training content not currently listed below or have questions pertaining to any of the content, email ARCSIM at <um.arcsim@maine.edu>.
 <br>
 <br>
 <img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png" width="550">

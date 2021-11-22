@@ -1,7 +1,7 @@
 # UMAINE ARCSIM
 
 
-UMaine ARCSIM strives to provide its research user community the best possible service in the most timely and cost-effective manner. Its primary goal is to support the advancement of research and discoveries of global impact and local relevance that are enabled through technological solutions.
+ARCSIM (Advanced Research Computing, Data Security, and Information Management) strives to provide its research user community the best possible service in the most timely and cost-effective manner. Its primary goal is to support the advancement of research and discoveries of global impact and local relevance that are enabled through technological solutions.
 
 
 ![arcsim](https://github.com/umaine-research/.github/blob/main/arcsim.png)
@@ -27,7 +27,7 @@ UMaine ARCSIM strives to provide its research user community the best possible s
 
 ## 📚 Training Resources
 
-Here you will find various software tutorials, training resources, and cheat sheets created for UMaine Research needs. If you are looking for training content not currently listed below, email UMaine ARCSIM at <um.arcsim@maine.edu>.
+Here you will find various software tutorials, training resources, and cheat sheets created for UMS research needs. If you are looking for training content not currently listed below, email ARCSIM at <um.arcsim@maine.edu>.
 <br>
 <br>
 <img src="https://github.com/umaine-research/TACC_Training/blob/main/logos.png" width="550">
@@ -38,7 +38,6 @@ Here you will find various software tutorials, training resources, and cheat she
 
   - Overview of the Bash Shell (Linux)
   - How to connect to Stampede2 Server
-  - Handling Data on HPC
   - Submitting Jobs
   - Conda Environment
 
@@ -50,14 +49,16 @@ Here you will find various software tutorials, training resources, and cheat she
 
 - [Metabarcoding at CyVerse](https://github.com/umaine-research/metebarcoding-docker/wiki)
 
-  - Custom built interactive app to run Cutadapt, FastQC, Dada2
-  - Docker container file
+  - Account setup
+  - Overview of the Discovery Environment
+  - iCommands to manage DataStore
+  - Custom built application to run Cutadapt, FastQC, Dada2
 
 <br>
 
-## 🌎  UMaine Research
+## 🌎  UMS Research
 
-Below are links to some of the current labs and groups at the University of Maine involving research and computing on campus
+Below are links to some of the current labs and groups at the University of Maine involving research and computing. If you would like your research group or project linked below to be publically accessible to the UMS research community, email ARCSIM at <um.arcsim@maine.edu> with your project links. 
 
 
  ### Maine-eDNA Project

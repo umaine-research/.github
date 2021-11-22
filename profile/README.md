@@ -58,7 +58,7 @@ Here you will find various software tutorials, training resources, and cheat she
 
 ## 🌎  UMS Research
 
-Below are links to some of the current labs and groups at the University of Maine involving research and computing. If you would like your research group or project linked below to be publically accessible to the UMS research community, email ARCSIM at <um.arcsim@maine.edu> with your project links. 
+Below are links to some of the current groups at the University of Maine involving research and computing. If you would like your research group or project linked below to be accessible to the UMS research community, email ARCSIM at <um.arcsim@maine.edu> with your project links. 
 
 
  ### Maine-eDNA Project

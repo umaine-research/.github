@@ -45,8 +45,8 @@ Here you will find various software tutorials, training resources, and cheat she
 - [HPC at Ohio Supercomputer Center](https://github.com/umaine-research/OSC_Training/wiki)
 
   - How to connect to Owens Server
-  - Handling Data on HPC
-  - Submitting Jobs
+  - Directories
+  - New User Guides
 
 - [Metabarcoding at CyVerse](https://github.com/umaine-research/metebarcoding-docker/wiki)
 

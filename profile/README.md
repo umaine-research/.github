@@ -11,17 +11,15 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 ## 💻  Upcoming Workshops
 
-- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2021_12_01-webinar_introduction_to_supercomputing_at_osc) - December 1, 2021 - 1:00pm to 2:30pm EST
+- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_01_13-webinar_intro_to_supercomputing_at_osc) - January 13, 2021 - 10:00am to 11:30am EST
 
-- [Parallel R at OSC](https://www.osc.edu/calendar/events/2021_12_02-parallel_r_at_osc) - December 2, 2021 - 2:00pm to 5:00pm EST
-
-- [The Jackson Lab: Data Carpentry Ecology](https://smcclatchy.github.io/2021-12-07-jackson/) - December 7-10 - 9:00am to 12:00pm EST
-
-- [XSEDE HPC Workshop: Big Data and Machine Learning](https://portal.xsede.org/course-calendar/-/training-user/class/2600/session/4293) - December 7/8 - 11:00am to 5:00pm EST
+- [Batch System at OSC](https://www.osc.edu/calendar/events/2022_01_19-webinar_batch_system_at_osc) - January 19, 2021 - 1:00pm to 3:00pm EST
 
 - [XSEDE: Parallel Computing Concepts](https://portal.xsede.org/course-calendar/-/training-user/class/2598/session/4291) - January 20, 2022 - 2:00pm to 3:00pm EST
 
-- [XSEDE: Singularity – Containers for Scientific and High-Performance Computing](https://portal.xsede.org/course-calendar/-/training-user/class/2599/session/4292) - March 17, 2022 - 2:00pm to 3:00pm EST
+- [Introduction to Data Analysis with R](https://www.osc.edu/calendar/events/2022_03_01-webinar_introduction_to_data_analysis_with_r) - March 1, 2021 - 1:00pm to 5:00pm EST
+
+- [XSEDE: Singularity – Containers for Scientific and High-Performance Computing](https://portal.xsede.org/course-calendar/-/training-user/class/2599/session/4292) March 17, 2022 - 2:00pm to 3:00pm EST
 
 <br>
 

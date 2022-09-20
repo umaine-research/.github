@@ -11,15 +11,19 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 ## 💻  Upcoming Workshops
 
-- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_02_15-webinar_introduction_to_supercomputing_at_osc) - February 15, 2022 - 1:00pm to 2:30pm EST
+- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_09_21-webinar_intro_to_supercomputing_at_osc) - September 21, 2022 - 1:00pm to 3:00pm EST
 
-- [XSEDE HPC Workshop: Big Data and Machine Learning](https://portal.xsede.org/course-calendar/-/training-user/class/2662/session/4389) February 16 and 18, 2022 - 11:00am to 5:00pm EST
+- [Batch System at OSC](https://www.osc.edu/calendar/events/2022_10_06-webinar_batch_system_at_osc) - October 6, 2022 - 1:00pm to 3:00pm EST
 
-- [Batch System at OSC](https://www.osc.edu/calendar/events/2022_02_22-webinar_batch_system_at_osc) - February 22, 2022 - 1:00pm to 3:00pm EST
+- [Introduction to Simple Linear Regression with R](https://www.osc.edu/calendar/events/2022_10_14-webinar_introduction_to_simple_linear_regression_with_r) - October 14, 2022 - 1:00pm to 3:00pm EST
 
-- [Introduction to Data Analysis with R](https://www.osc.edu/calendar/events/2022_03_01-webinar_introduction_to_data_analysis_with_r) - March 1, 2022 - 1:00pm to 5:00pm EST
+- [Multiple Linear Regression with R](https://www.osc.edu/calendar/events/2022_10_21-webinar_multiple_linear_regression_with_r) - October 21, 2022 - 1:00pm to 3:00pm EST
 
-- [XSEDE: Singularity – Containers for Scientific and High-Performance Computing](https://portal.xsede.org/course-calendar/-/training-user/class/2599/session/4292) March 17, 2022 - 2:00pm to 3:00pm EST
+- [Introduction to Logistic Regression with R](https://www.osc.edu/calendar/events/2022_10_28-webinar_introduction_to_logistic_regression_with_r) - October 28, 2022 - 1:00pm to 3:00pm EST
+
+- [RNA-Seq Data Analysis at OSC](https://www.osc.edu/calendar/events/2022_11_02-webinar_rna_seq_data_analysis_at_osc) - November 2,3,4, 2022 - 1:00pm to 5:00pm EST
+
+- [Parallel R at OSC](https://www.osc.edu/calendar/events/2022_11_16-parallel_r_at_osc) - November 16, 2022 - 1:00pm to 3:00pm EST
 
 <br>
 

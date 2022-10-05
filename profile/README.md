@@ -11,7 +11,6 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 ## 💻  Upcoming Workshops
 
-- [Introduction to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_09_21-webinar_intro_to_supercomputing_at_osc) - September 21, 2022 - 1:00pm to 3:00pm EST
 
 - [Batch System at OSC](https://www.osc.edu/calendar/events/2022_10_06-webinar_batch_system_at_osc) - October 6, 2022 - 1:00pm to 3:00pm EST
 

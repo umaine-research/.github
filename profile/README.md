@@ -24,6 +24,8 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 - [Parallel R at OSC](https://www.osc.edu/calendar/events/2022_11_16-parallel_r_at_osc) - November 16, 2022 - 1:00pm to 3:00pm EST
 
+- [Intro to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_12_01-webinar_intro_to_supercomputing_at_osc) - December 1, 2022 - 1:00pm to 3:00pm EST
+
 <br>
 
 ## 📚 Training Resources

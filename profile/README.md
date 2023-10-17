@@ -12,19 +12,13 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 ## 💻  Upcoming Workshops
 
 
-- [Batch System at OSC](https://www.osc.edu/calendar/events/2022_10_06-webinar_batch_system_at_osc) - October 6, 2022 - 1:00pm to 3:00pm EST
+- [Introduction to Regression Analysis with Python](https://www.osc.edu/calendar/events/2023_10_27-webinar_introduction_to_regression_analysis_with_python) - October 27, 2023 - 1:00pm to 4:00pm EST
 
-- [Introduction to Simple Linear Regression with R](https://www.osc.edu/calendar/events/2022_10_14-webinar_introduction_to_simple_linear_regression_with_r) - October 14, 2022 - 1:00pm to 3:00pm EST
+- [Introduction to Simple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_01-webinar_introduction_to_simple_linear_regression_with_r) - November 1, 2023 - 1:00pm to 3:00pm EST
 
-- [Multiple Linear Regression with R](https://www.osc.edu/calendar/events/2022_10_21-webinar_multiple_linear_regression_with_r) - October 21, 2022 - 1:00pm to 3:00pm EST
+- [Multiple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_02-webinar_multiple_linear_regression_with_r) - November 2, 2023 - 1:00pm to 3:00pm EST
 
-- [Introduction to Logistic Regression with R](https://www.osc.edu/calendar/events/2022_10_28-webinar_introduction_to_logistic_regression_with_r) - October 28, 2022 - 1:00pm to 3:00pm EST
-
-- [RNA-Seq Data Analysis at OSC](https://www.osc.edu/calendar/events/2022_11_02-webinar_rna_seq_data_analysis_at_osc) - November 2,3,4, 2022 - 1:00pm to 5:00pm EST
-
-- [Parallel R at OSC](https://www.osc.edu/calendar/events/2022_11_16-parallel_r_at_osc) - November 16, 2022 - 1:00pm to 3:00pm EST
-
-- [Intro to Supercomputing at OSC](https://www.osc.edu/calendar/events/2022_12_01-webinar_intro_to_supercomputing_at_osc) - December 1, 2022 - 1:00pm to 3:00pm EST
+- [Logistic Regression with R](https://www.osc.edu/calendar/events/2023_11_03-webinar_logistic_regression_with_r) - November 3, 2023 - 1:00pm to 3:00pm EST
 
 <br>
 

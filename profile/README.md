@@ -11,7 +11,7 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 ## 💻  Upcoming Workshops
 
-
+Free Virtual Training Events at Ohio Supercomputer Center
 - [Introduction to Regression Analysis with Python](https://www.osc.edu/calendar/events/2023_10_27-webinar_introduction_to_regression_analysis_with_python) - October 27, 2023 - 1:00pm to 4:00pm EST
 
 - [Introduction to Simple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_01-webinar_introduction_to_simple_linear_regression_with_r) - November 1, 2023 - 1:00pm to 3:00pm EST
@@ -19,6 +19,15 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 - [Multiple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_02-webinar_multiple_linear_regression_with_r) - November 2, 2023 - 1:00pm to 3:00pm EST
 
 - [Logistic Regression with R](https://www.osc.edu/calendar/events/2023_11_03-webinar_logistic_regression_with_r) - November 3, 2023 - 1:00pm to 3:00pm EST
+
+<br>
+Free Virtual Training Events at Texas Advanced Computing Center 
+*Registration is limited for both events
+
+- [HPC at TACC](https://tacc.utexas.edu/use-tacc/training/2023/hpc-tacc/) - November 1-2, 2023 - 11:00am to 5:00pm EST
+
+- [Machine Learning](https://tacc.utexas.edu/use-tacc/training/2023/machine-learning/) - November 6-8, 2023 - 11:00am to 4:00pm EST
+
 
 <br>
 

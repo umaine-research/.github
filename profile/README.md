@@ -73,11 +73,10 @@ Below are links to some of the current groups at the University of Maine involvi
    - [Project Website](https://umaine.edu/edna/)
   <img src="https://umaine.edu/epscor/wp-content/uploads/sites/25/2020/03/MSWC-Large-e1626257540779.png" width="100">
    
- ### UMaine Advanced Computing Group - ACG
+ ### University of Maine System Advanced Computing Group - ACG
   
    - [Github Page](https://github.com/UMaineACG)
    - [Project Website](https://acg.maine.edu/)
-  <img src="https://acg.maine.edu/wp-content/uploads/2017/06/cropped-ACG-logo.png" width="100">
 
 
 

@@ -8,29 +8,6 @@ ARCSIM (Advanced Research Computing, Data Security, and Information Management) 
 
 <br />
 
-
-## 💻  Upcoming Workshops
-
-Free Virtual Training Events at Ohio Supercomputer Center
-- [Introduction to Regression Analysis with Python](https://www.osc.edu/calendar/events/2023_10_27-webinar_introduction_to_regression_analysis_with_python) - October 27, 2023 - 1:00pm to 4:00pm EST
-
-- [Introduction to Simple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_01-webinar_introduction_to_simple_linear_regression_with_r) - November 1, 2023 - 1:00pm to 3:00pm EST
-
-- [Multiple Linear Regression with R](https://www.osc.edu/calendar/events/2023_11_02-webinar_multiple_linear_regression_with_r) - November 2, 2023 - 1:00pm to 3:00pm EST
-
-- [Logistic Regression with R](https://www.osc.edu/calendar/events/2023_11_03-webinar_logistic_regression_with_r) - November 3, 2023 - 1:00pm to 3:00pm EST
-
-<br>
-Free Virtual Training Events at Texas Advanced Computing Center 
-*Registration is limited for both events
-
-- [HPC at TACC](https://tacc.utexas.edu/use-tacc/training/2023/hpc-tacc/) - November 1-2, 2023 - 11:00am to 5:00pm EST
-
-- [Machine Learning](https://tacc.utexas.edu/use-tacc/training/2023/machine-learning/) - November 6-8, 2023 - 11:00am to 4:00pm EST
-
-
-<br>
-
 ## 📚 Training Resources
 
 Here you will find various software tutorials, training resources, and cheat sheets created for UMS research needs. If you are looking for training content not currently listed below or have questions pertaining to any of the content, email ARCSIM at <um.arcsim@maine.edu>.
@@ -60,6 +37,12 @@ Here you will find various software tutorials, training resources, and cheat she
   - iCommands to manage DataStore
   - Custom built application for metabarcoding
 
+ ### ARCSIM Guides
+
+ These pages are intended to provide detailed technical support and documentation related to ARCSIM's High Performance Computing (HPC) clusters and Cloud or Virtual Machine resources. Sections include information about Connections, Software, Slurm, Python, and Job Submissions.
+  
+   - [Github Page]([https://github.com/UMaineACG](https://github.com/umaine-research/ARCSIM-Guides/wiki))
+ 
 <br>
 
 ## 🌎  UMS Research
@@ -72,11 +55,6 @@ Below are links to some of the current groups at the University of Maine involvi
    - [Github Page](https://github.com/Maine-eDNA)
    - [Project Website](https://umaine.edu/edna/)
   <img src="https://umaine.edu/epscor/wp-content/uploads/sites/25/2020/03/MSWC-Large-e1626257540779.png" width="100">
-   
- ### University of Maine System Advanced Computing Group - ACG
-  
-   - [Github Page](https://github.com/UMaineACG)
-   - [Project Website](https://acg.maine.edu/)
 
 
 

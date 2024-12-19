@@ -41,7 +41,7 @@ Here you will find various software tutorials, training resources, and cheat she
 
  These pages are intended to provide detailed technical support and documentation related to ARCSIM's High Performance Computing (HPC) clusters and Cloud or Virtual Machine resources. Sections include information about Connections, Software, Slurm, Python, and Job Submissions.
   
-   - [Github Page](https://github.com/umaine-research/ARCSIM-Guides/wiki)
+   - [ARCSIM HPC and Virtual Machine Technical Guides](https://github.com/umaine-research/ARCSIM-Guides/wiki)
  
 <br>
 

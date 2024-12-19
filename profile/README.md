@@ -36,8 +36,9 @@ Here you will find various software tutorials, training resources, and cheat she
   - Overview of the Discovery Environment
   - iCommands to manage DataStore
   - Custom built application for metabarcoding
-
- ### ARCSIM Guides
+<br>
+ 
+ ## 💻  ARCSIM Guides
 
  These pages are intended to provide detailed technical support and documentation related to ARCSIM's High Performance Computing (HPC) clusters and Cloud or Virtual Machine resources. Sections include information about Connections, Software, Slurm, Python, and Job Submissions.
   
